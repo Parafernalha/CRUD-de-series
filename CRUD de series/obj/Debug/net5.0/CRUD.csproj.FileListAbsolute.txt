@@ -1,0 +1,16 @@
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.AssemblyInfoInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.AssemblyInfo.cs
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.csproj.CoreCompileInputs.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.exe
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.deps.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.runtimeconfig.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.runtimeconfig.dev.json
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\ref\CRUD.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\bin\Debug\net5.0\CRUD.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.csproj.AssemblyReference.cache
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\ref\CRUD.dll
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.pdb
+C:\Users\dougl\OneDrive\Área de Trabalho\code the future\Csharp\Projeto CRUD de series\CRUD de series\CRUD de series\obj\Debug\net5.0\CRUD.genruntimeconfig.cache
